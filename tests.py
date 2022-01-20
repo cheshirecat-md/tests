@@ -52,7 +52,7 @@ print(games)
 
 x = 5
 if x == 5:
-   print('Correct')
+     print('Correct')
 elif x > 5:
     print('To much')
 elif x < 5:
@@ -79,4 +79,12 @@ print('KK') if b > c else print('KKK')
 
 #tryting to setup git repository i hope that works
 print('i miss her')
+
+
+z = True
+w = False
+if z == True:
+    print('It worked')
+else:
+    print('didnt worked')
 
